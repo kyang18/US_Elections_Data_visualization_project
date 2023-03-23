@@ -8,9 +8,7 @@ Eric Shadle,
 Felix Ogbodu.
 
 Project Summary:
-We used election 2020 data to create a website that was served that data and generated graphs. Niraj set up the backend server and Supraja designed the front-end. Everyone was responsible creating a graph that pulled and manipulated data from the backend.
-Niraj completed the heatmap, Kaixin completed the dashboards, Supraja completed the pie charts, and Eric completed the bubble map.
+Our team leveraged election data from 2020 to develop a website that presented the data and generated various graphs. Niraj led the backend server setup while Supraja designed the front-end. Each team member was responsible for creating a specific graph by pulling and manipulating data from the backend. Niraj developed the heatmap, Kaixin designed the dashboards, Supraja created the pie charts, and Eric produced the bubble map.
 
-Files to be submitted
--> assets/create_mongodb.ipynb
--> assets/templates (entire folder)
+
+Files to be submitted -> assets/create_mongodb.ipynb -> assets/templates (entire folder)
