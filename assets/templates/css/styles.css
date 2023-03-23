@@ -1,0 +1,86 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(248, 130, 130),
+    rgb(77, 77, 241)
+  );
+}
+
+a {
+  color: whitesmoke;
+}
+.navbar-toggle .icon-bar {
+  background-color: whitesmoke;
+}
+.nav > li > a:any-link {
+  background-color: transparent;
+}
+
+.nav .open > a,
+.nav .open > a:focus,
+.nav .open > a:hover {
+  background-color: transparent;
+}
+
+.dropdown-menu {
+  background-color: purple;
+}
+
+.dropdown-menu > li > a {
+  color: whitesmoke;
+}
+
+.dropdown-menu > li > a:any-link {
+  background-color: transparent;
+}
+
+/* svg */
+svg {
+  display: block;
+  margin: auto;
+}
+
+.nopadding {
+  padding: 0 !important;
+}
+.main-svg {
+  background: none !important;
+}
+rect.bg {
+  fill: transparent !important;
+}
+
+
+.social-link {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:black;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 1.5rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+  background: #ddd;
+  text-decoration: none;
+  color: black}
+
+
+.name {
+  color: black;
+  font-size: 35px;
+}
+
+.paragraph {
+  color: black;
+  font-size: medium;
+}
