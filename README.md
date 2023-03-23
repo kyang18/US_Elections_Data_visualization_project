@@ -1,4 +1,4 @@
-Group 3 ETL PROJECT
+Group 3 Data visualization project
 
 Project Members:
 Niraj Khatri,
